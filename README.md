@@ -14,4 +14,4 @@ Language dependency: Python 3 (Please do not use Python 2 to run the code.)
 
 # Usage
 
-![image](https://github.com/zzssyy/IPLncPP-FSL/blob/master/Graphical-abstract.tif)
+![image](https://github.com/zzssyy/IPLncPP-FSL/blob/master/Graphic Abstract.tif)
