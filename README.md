@@ -9,7 +9,9 @@ win10
 Language dependency: Python 3 (Please do not use Python 2 to run the code.)
 
 # Library dependency
-
+PyTorch 1.9.1 
+learn2learn 
+Python 3.6.15
 
 
 # Usage
