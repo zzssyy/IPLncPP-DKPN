@@ -28,4 +28,4 @@ python ..\fsl\main\IPLncPP-FSL.py
 
 # Graphical abstract
 
-![image](https://github.com/zzssyy/IPLncPP-FSL/blob/master/Graphic_abstract.png)
+![image](https://github.com/zzssyy/IPLncPP-FSL/raw/master/Graphic_abstract.png)
