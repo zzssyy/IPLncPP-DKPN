@@ -26,4 +26,4 @@ torchmeta==1.8.0
 
 python ..\fsl\main\IPLncPP-FSL.py
 
-![image](https://github.com/zzssyy/bioinformatics/blob/master/Graphic_Abstract.png)
+![image](https://github.com/zzssyy/IPLncPP-FSL/blob/master/Graphic_abstract.png)
