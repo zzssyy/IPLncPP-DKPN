@@ -26,4 +26,6 @@ torchmeta==1.8.0
 
 python ..\fsl\main\IPLncPP-FSL.py
 
+# Graphical abstract
+
 ![image](https://github.com/zzssyy/IPLncPP-FSL/blob/master/Graphic_abstract.png)
