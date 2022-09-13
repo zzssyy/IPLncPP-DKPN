@@ -1,6 +1,6 @@
-# IPLncPP-FSL
+# IPLncPP-DKPN
 
-IPLncPP-FSL is a novel computational method to predict the interations between plant lncRNA-encoded peptide and protein based on few-shot learning. 
+IPLncPP-DKPN is a novel computational method to predict the interations between plant lncRNA-encoded peptide and protein based on few-shot learning. 
 
 # OS
 win10
@@ -24,7 +24,7 @@ torchmeta==1.8.0
 
 # Usage
 
-python ..\fsl\main\IPLncPP-FSL.py
+python ..\fsl\main\IPLncPP-DKPN.py
 
 # Graphical abstract
 
